@@ -1,0 +1,8 @@
+.main-movies {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  width: 80%;
+}
